@@ -2,17 +2,17 @@
 
 I'm Chor Jin Yong!
 
-### Previously 💼
+### 💼 Previously
 - Graduate: University of Malaysia, Sarawak (UNIMAS)
 - Intern/Part-Time at: iTask Pte. Ltd.
 
-### Mastering 💻
+### 💻 Mastering
 - TypeScript/JavaScript
 - React Native/ReactJS
 - ExpressJS
 - Mongoose/MongoDB
 
-### Project ⚙️
+### ⚙️ Project
 - **University of Malaysia Sarawak**\
 Final Year Project using MERN Stacks\
 _ReactJS/React Native/Express/Mongo_\
