@@ -1,26 +1,37 @@
-<h2> 👋 HEY! </h2>
+## 👋 HEY! 
 
 I'm Chor Jin Yong!
 
-<h3>Previously 💼</h3> 
-- <i>Graduate</i>: University of Malaysia, Sarawak (UNIMAS) </br>
-- <i>Intern/Part-Time at</i>: iTask Pte. Ltd. </br>
+### Previously 💼
+- Graduate: University of Malaysia, Sarawak (UNIMAS)
+- Intern/Part-Time at: iTask Pte. Ltd.
 
-<h3>Mastering 💻</h3>
-- TypeScript/JavaScript </br>
-- React Native/ReactJS </br>
-- ExpressJS </br>
-- Mongoose/MongoDB </br>
+### Mastering 💻
+- TypeScript/JavaScript
+- React Native/ReactJS
+- ExpressJS
+- Mongoose/MongoDB
 
-<h3>Project ⚙️</h3>
-- <strong>University of Malaysia Sarawak</strong> </br>
-Final Year Project </br>
-<i>MERN Stacks project</i> </br>
-<sub>ReactJS/React Native/Express/Mongo</sub>
-<sub>Hosted at Render: </sub> </br>
-<sub>- [Booking](https://safanabekam.onrender.com) </sub> </br>
-<sub>- [Admin](https://safanabekam-admin.onrender.com)</sub> </br>
+### Project ⚙️
+- **University of Malaysia Sarawak**\
+Final Year Project using MERN Stacks\
+_ReactJS/React Native/Express/Mongo_\
+Hosted at Render:
+  - [Booking](https://safanabekam.onrender.com)
+  - [Admin](https://safanabekam-admin.onrender.com)
+    
+  _Note that hosted site might be slow on booting up due to server spindown._
 
+  Source Code:
+  - [Backend](https://github.com/JinChor1/SafanaBekamBackend)
+  - [Booking Frontend](https://github.com/JinChor1/SafanaBekamFrontend)
+  - [Admin Frontend](https://github.com/JinChor1/SafanaBekamFrontendAdmin)
 
+- **iTask Pte. Ltd.**
+  - Maintain iTask App using React Native
+    - [iOS App Store](https://apps.apple.com/sg/app/itask-service-marketplace-app/id1444309900)
+    - [Google Play Store](https://play.google.com/store/apps/details?id=com.itask&hl=en_US)
 
+  - Developing for iTasker Project
+    
 
