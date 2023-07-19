@@ -38,6 +38,7 @@ I'm Chor Jin Yong!
 - OS & IDE & Tools : <br />
     [![VS Code](http://img.shields.io/badge/-VS%20Code-eee?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)]()
     [![Windows](http://img.shields.io/badge/-Windows-eee?style=for-the-badge&logo=windows&logoColor=blue)]()
+    [![macOS](https://img.shields.io/badge/mac%20os-eee?style=for-the-badge&logo=macos&logoColor=000000)]()
     [![Git](http://img.shields.io/badge/-Git-eee?style=for-the-badge&logo=git&logoColor=F05032)]()
     [![Bitbucket](https://img.shields.io/badge/bitbucket-eee?style=for-the-badge&logo=bitbucket&logoColor=0088cc)]()
 
