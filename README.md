@@ -2,6 +2,13 @@
 
 I'm Chor Jin Yong!
 
+<div>
+<h3>:handshake: Contact Me</h3>
+<a href="https://github.com/JinChor1" target="_blank"><img src="https://img.shields.io/badge/-JinChor1-black?logo=github&style=flat-square" alt="github"/></a>
+<a href="https://www.linkedin.com/in/jin-yong-chor-641341223/" target="_blank"><img src="https://img.shields.io/badge/-JinYongChor-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
+<a href="mailto:jinchor9930@hotmail.com"><img src="https://img.shields.io/badge/-jinchor9930@hotmail.com-0078D4?logo=microsoft-outlook&logoColor=white&style=flat-square" alt="outlook"/></a>
+</div>
+
 ### 💼 Previously
 - Graduate: University of Malaysia, Sarawak (UNIMAS)
 - Intern/Part-Time at: iTask Pte. Ltd.
@@ -22,6 +29,7 @@ I'm Chor Jin Yong!
     [![React](https://img.shields.io/badge/-React-eee?style=for-the-badge&logo=react&logoColor=0088cc)]()
     [![React Native](https://img.shields.io/badge/react_native-eee?style=for-the-badge&logo=react&logoColor=0088cc)]()
     [![JQUERY](http://img.shields.io/badge/-jQuery-eee?style=for-the-badge&logo=jquery&logoColor=E34F26)]()
+    [![Redux](https://img.shields.io/badge/redux-eee?style=for-the-badge&logo=redux&logoColor=%23593d88)]()
 - Backend : <br />
     [![NodeJS](http://img.shields.io/badge/-NodeJS-eee?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAgVBMVEUzmTMzkTM0mDQslSwtlS00mzQAAAA7nTsymDIzmDMwmDAymTIzmDMzmTMzmDMzmDMzlzM0mTQzmTMzmTMzmTMzmTMzmTM0mjQ1nDUxlzEymDIzmTMzmTMzmTMzmTMzmTMwlzAzmTMzmTMzmTMzmTMzmTMzmTM0mTQzmTMzmTP///8ybrFJAAAAKXRSTlMAAAAAAAAAAAAAAA9RxlIRBjSR6/7vmzkIAyd21Nt8JwMauPwrKvlQxcV6L9IAAABUSURBVAjXY2RgZGTkYGQEUl8ZwUx2EAUSZfz0jVESSPEygMAXkIgiIyMbAwT8+v+fUeU/jAfkMzKqMjLDuX//k8ZFMwrNIjRnoDkS7AUZxqcQLwAA4+0cex8ENfMAAAAASUVORK5CYII=)]()
     [![ExpressJs](https://img.shields.io/badge/-Express_Js-eee?style=for-the-badge&logo=expressjs&logoColor=red)]()
