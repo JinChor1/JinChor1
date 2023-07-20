@@ -62,6 +62,5 @@ Hosted at Render (DEMO):
     - [iOS App Store](https://apps.apple.com/sg/app/itask-service-marketplace-app/id1444309900)
     - [Google Play Store](https://play.google.com/store/apps/details?id=com.itask&hl=en_US)
 
-  - Developing for iTasker Project
     
 Credit: [Chintan Golakiya](https://github.com/chintan-golakiya)
