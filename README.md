@@ -2,6 +2,9 @@
 
 I'm Chor Jin Yong!
 
+### My Portfolio Website (hosted on Netlify + Github)
+https://charleschor-portfolio.netlify.app/
+
 <div>
 <h3>:handshake: Contact Me</h3>
 <a href="https://github.com/JinChor1" target="_blank"><img src="https://img.shields.io/badge/-JinChor1-black?logo=github&style=flat-square" alt="github"/></a>
